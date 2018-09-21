@@ -1,2 +1,0 @@
-# hiii
-# colrr_pickrr
