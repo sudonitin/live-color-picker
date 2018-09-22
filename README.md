@@ -1,6 +1,6 @@
 Color Picker From Webcam
 
-<img src="https://www.dropbox.com/s/koerwxju6q63bn2/upload.gif" alt = "press the link below"/>
+<img src="https://github.com/globefire/colrr_pickrr/blob/master/upload.gif" alt = "press the link below"/>
 
 Press this <a href = "https://youtu.be/6y59fXgzMCs">link</a> to watch a longer demonstration.
 
