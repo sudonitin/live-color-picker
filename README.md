@@ -1,6 +1,6 @@
 Color Picker From Webcam
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-17cf4a6495.gif" />
+<img src="https://im4.ezgif.com/tmp/ezgif-4-93c34ae5a3.gif" />
 
 Press this <a href = "https://youtu.be/6y59fXgzMCs">link</a> to watch a longer demonstration.
 
