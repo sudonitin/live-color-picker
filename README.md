@@ -1,4 +1,4 @@
-Color Picker From Webcam
+<h3>Color Picker From Webcam📸🎨🔍</h3>
 
 <img src="https://github.com/globefire/colrr_pickrr/blob/master/upload.gif" alt = "press the link below"/>
 
