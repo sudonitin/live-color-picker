@@ -17,3 +17,5 @@ pip install -r requirements.txt
 jupyter notebook
 press SHIFT+Enter on each block
 ```
+### If you liked this Repository, then please leave a star on this repository so that I can know you liked this project. It motivates me to contribute more in such Open Source projects in the future.
+### Happy Coding =)
