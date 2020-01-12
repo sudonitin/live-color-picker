@@ -1,4 +1,7 @@
 ## Color Picker From Webcam📸🎨🔍
+### [Article cum tutorial](https://myblindbird.com/mini-projects/live-color-detector-in-python/) ⬅ Hit it
+
+
 <p align="center">
   <img src="https://github.com/globefire/colrr_pickrr/blob/master/upload.gif" alt = "press the link below"/>
 </p>
