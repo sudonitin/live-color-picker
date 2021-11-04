@@ -1,5 +1,5 @@
 ## Color Picker From Webcam📸🎨🔍
-### [Article cum tutorial]() ⬅ Hit it
+
 
 
 <p align="center">
