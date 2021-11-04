@@ -1,5 +1,5 @@
 ## Color Picker From Webcam📸🎨🔍
-### [Article cum tutorial](https://myblindbird.com/mini-projects/live-color-detector-in-python/) ⬅ Hit it
+### [Article cum tutorial]() ⬅ Hit it
 
 
 <p align="center">
